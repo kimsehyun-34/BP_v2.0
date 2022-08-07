@@ -1,8 +1,8 @@
 # BP_v1.0 벤포드의 법칙
 ---------
 
-python pandas, benfordslaw 라이브러리 사용.
-cmd: py -m pip install ( pandas/ benfordslaw ) 입력
+- python pandas, benfordslaw 라이브러리 사용.
+- cmd: py -m pip install ( pandas/ benfordslaw )
 
 ---------
 
